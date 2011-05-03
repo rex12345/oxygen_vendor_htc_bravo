@@ -24,7 +24,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/bravo/proprietary/AudioBTID.csv:system/etc/AudioBTID.csv \
     vendor/htc/bravo/proprietary/bcm4329.hcd:system/etc/firmware/bcm4329.hcd \
     vendor/htc/bravo/proprietary/default.acdb:system/etc/firmware/default.acdb \
-    vendor/htc/bravo/proprietary/default_nel.acdb:system/etc/firmware/default_nel.acdb \
+    vendor/htc/bravo/proprietary/default_att.acdb:system/etc/firmware/default_att.acdb \
     vendor/htc/bravo/proprietary/default_france.acdb:system/etc/firmware/default_france.acdb \
     vendor/htc/bravo/proprietary/yamato_pfp.fw:system/etc/firmware/yamato_pfp.fw \
     vendor/htc/bravo/proprietary/yamato_pm4.fw:system/etc/firmware/yamato_pm4.fw \
